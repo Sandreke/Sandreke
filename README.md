@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### I invite you to connect with me:
+### I invite you to connect with me!
 <a href="https://www.linkedin.com/in/sandroagama/" target="_blank" rel="nofollow">
     <img src="https://user-images.githubusercontent.com/64377961/171752276-9ee0d0b7-e6b9-4790-9b66-a51cff145566.png" alt="LinkedIn" width="30px" height="30px" />
 </a>
