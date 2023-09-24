@@ -1,4 +1,4 @@
-### Hi, I'm Sandro 👨‍💻
+### Hi, I'm Sandreke 👨‍💻
 
 Industrial Engineer from [Pontificia Universidad Católica del Perú](https://www.pucp.edu.pe/en/) with 3+ years experience in Data Analytics and 2+ years in Finance.
 
