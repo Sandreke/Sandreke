@@ -2,7 +2,7 @@
 
 Seasoned data expert with 4+ years' experience in Data Science and Business Analytics solving real-world problems.
 
-I'm passionate about teaching data & programming.
+
 <!--
 **Sandreke/Sandreke** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
